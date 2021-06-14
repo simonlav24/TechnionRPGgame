@@ -1,0 +1,1 @@
+start cmd /k cd "C:\Simon\TECH RPG"
